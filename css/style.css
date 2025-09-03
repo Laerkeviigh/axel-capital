@@ -1,0 +1,11 @@
+img {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+.black-background{
+    background-color: black;
+    width: 43rem;
+    height: 9rem;
+}
+footer{color: white;}
